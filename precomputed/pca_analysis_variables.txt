@@ -1,1 +1,3 @@
+Please go to the following link: https://soumyabratadev.files.wordpress.com/2016/12/pca_analysis_variables.key and download the "pca_analysis_variables.key" file into the local disk.
 
+Please change the extension from .key to .mat to obtain the "pca_analysis_variables.mat" file for subsequent use.
