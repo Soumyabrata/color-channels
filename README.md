@@ -1,6 +1,6 @@
 # Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images
 
-With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript: S. Dev, Y. H. Lee, S. Winkler, Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Oct. 2014. It also generates the associated figures and tables.
+With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript: S. Dev, Y. H. Lee, S. Winkler, Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Oct. 2014. 
 
 ### Authors
 * Soumyabrata Dev, Nanyang Technological University, Singapore
