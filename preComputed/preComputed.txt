@@ -1,1 +1,3 @@
+Please go to the following link: https://soumyabratadev.files.wordpress.com/2016/12/precomputed.key and download the "precomputed.key" file into the local disk.
 
+Please change the filename from "precomputed.key" to "preComputed.mat" file for subsequent use.
